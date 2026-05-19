@@ -1,0 +1,20 @@
+{
+  "name": "默背俄语 · App Lab 01",
+  "short_name": "默背俄语",
+  "description": "默背俄语 PWA：今日任务、单词卡、选择题、拼写练习和俄语发音。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f0e8",
+  "theme_color": "#f5f0e8",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
